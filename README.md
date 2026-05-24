@@ -1,6 +1,6 @@
 
 
-readme_content = """# 🍽️ Sabor Cuscatleco - Landing Page de Gastronomía Salvadoreña
+🍽️ Sabor Cuscatleco - Landing Page de Gastronomía Salvadoreña
 
 ¡Bienvenido al repositorio oficial de **Sabor Cuscatleco**! Este proyecto consiste en una landing page responsiva de una sola página desarrollada desde cero para promover y exaltar el arte culinario tradicional de El Salvador. El desarrollo incluye la implementación avanzada de semántica HTML5, estilos modernos con CSS Grid y Flexbox, interactividad mediante la manipulación del DOM y validación estricta de formularios con JavaScript puro (Vanilla JS).
 
